@@ -1,0 +1,20 @@
+body {
+  background-color: #B9DDDB;
+}
+
+header {
+  background-color: #2AB3A6;
+}
+header nav {
+  text-align: center;
+  background-color: #69979E;
+}
+header nav li {
+  list-style-type: none;
+}
+header nav li a {
+  text-decoration: none;
+  color: #CFBEC5;
+}
+
+/*# sourceMappingURL=main.css.map */
